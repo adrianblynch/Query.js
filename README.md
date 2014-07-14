@@ -34,3 +34,8 @@ Usage
 	while (clients.next()) {
 		console.log(clients.getValue("firstName"));
 	}
+
+Node/NPM
+--------
+
+Available as a package for Node here: https://www.npmjs.org/package/cf-query
